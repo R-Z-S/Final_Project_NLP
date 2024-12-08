@@ -78,7 +78,7 @@ Future efforts will focus on further optimizing model performance through additi
 - **Pegasus_model_Dataset_2.ipynb**: Implementation notebook for PEGASUS model on Dataset-2.
 - **NLP Project Report.pdf**: Detailed project report.
 - **Project_presentation_NLP_Final.pptx**: Presentation slides summarizing the project.
-- **Recorded-Video-Presentation**: Video presentation of the project..
+- **Recorded-Video-Presentation link**: Video presentation of the project..
 
 ## Conclusion
 This project highlights the transformative potential of fine-tuned transformer models like PEGASUS, BART, and BERT in summarizing complex biomedical texts. By distilling large volumes of medical research into concise and coherent summaries, these models enable healthcare professionals, researchers, and policymakers to stay informed about critical advancements efficiently. The ongoing development and optimization of these models promise to further enhance the accessibility, utility, and dissemination of vital medical knowledge.
